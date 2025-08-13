@@ -1,0 +1,22 @@
+---
+title: "Suplementos"
+author: "Villaverde, V., Cantó, A., Diez Castillo, A."
+execute:
+  echo: false
+---
+
+This repository contains suplementary data from Villarverde et al. (2025) en el Homenaje al profesor César González Sainz.
+
+## Tabla de los casos analizados
+
+```{r, echo=FALSE}
+load("tabla1sup.Rdata")
+```
+
+```{r}
+library(gt)
+```
+
+```{r}
+gt(cgs)
+```
