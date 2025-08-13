@@ -1,2 +1,2 @@
 # HomenajeCGS
-This repository contains complementary data from Villarverde et al. (2025).
+This repository contains suplementary data from Villarverde et al. (2025).
